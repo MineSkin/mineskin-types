@@ -1,0 +1,1 @@
+{"version":3,"file":"SkinVariant.js","sourceRoot":"/","sources":["skin/SkinVariant.ts"],"names":[],"mappings":";;;AAAA,IAAY,WAIX;AAJD,WAAY,WAAW;IACnB,kCAAmB,CAAA;IACnB,kCAAmB,CAAA;IACnB,4BAAa,CAAA;AACjB,CAAC,EAJW,WAAW,2BAAX,WAAW,QAItB","sourcesContent":["export enum SkinVariant {\n    UNKNOWN = \"unknown\",\n    CLASSIC = \"classic\",\n    SLIM = \"slim\"\n}"]}
