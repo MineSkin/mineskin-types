@@ -18,4 +18,6 @@ __exportStar(require("./generate"), exports);
 __exportStar(require("./profile"), exports);
 __exportStar(require("./skin"), exports);
 __exportStar(require("./misc"), exports);
+__exportStar(require("./auth"), exports);
+__exportStar(require("./account"), exports);
 //# sourceMappingURL=index.js.map
