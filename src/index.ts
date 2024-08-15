@@ -4,3 +4,4 @@ export * from "./skin";
 export * from "./misc";
 export * from "./auth"
 export * from "./account"
+export * from "./key"
