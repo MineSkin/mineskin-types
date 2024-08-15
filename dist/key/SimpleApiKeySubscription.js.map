@@ -1,0 +1,1 @@
+{"version":3,"file":"SimpleApiKeySubscription.js","sourceRoot":"/","sources":["key/SimpleApiKeySubscription.ts"],"names":[],"mappings":"","sourcesContent":["export interface SimpleApiKeySubscription {\n    id: string;\n    products: string[];\n    features: string[];\n    meta: Record<string, string | number | boolean>;\n    status: string;\n}"]}

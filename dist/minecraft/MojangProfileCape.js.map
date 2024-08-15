@@ -1,0 +1,1 @@
+{"version":3,"file":"MojangProfileCape.js","sourceRoot":"/","sources":["minecraft/MojangProfileCape.ts"],"names":[],"mappings":"","sourcesContent":["export interface MojangProfileCape {\n    id: string;\n    state: \"ACTIVE\" | string;\n    url: string;\n    alias: string;\n}"]}
