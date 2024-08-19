@@ -10,7 +10,7 @@
   "scripts": {
     "build": "yarn tsc",
     "test": "echo \"no test specified\" && exit 0",
-    "bump": "yarn version patch && git push --follow-tags"
+    "release": "commit-and-tag-version"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.14.9",
+    "commit-and-tag-version": "^12.4.1",
     "nodemon": "^3.1.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.3"
