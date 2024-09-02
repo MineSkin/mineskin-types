@@ -1,4 +1,4 @@
-import { SkinData } from "./SkinData";
+import { SkinIdAndTexture } from "./SkinIdAndTexture";
 import { SkinVariant } from "./SkinVariant";
 import { DelayInfo } from "../generate";
 export interface SkinInfo {
@@ -10,7 +10,7 @@ export interface SkinInfo {
     /**@deprecated**/
     model: string;
     variant: SkinVariant;
-    data: SkinData;
+    data: SkinIdAndTexture;
     timestamp: number;
     duration: number;
     /**@deprecated**/

@@ -15,7 +15,7 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./ISkin"), exports);
-__exportStar(require("./SkinData"), exports);
+__exportStar(require("./SkinIdAndTexture"), exports);
 __exportStar(require("./SkinTexture"), exports);
 __exportStar(require("./SkinTextureUrls"), exports);
 __exportStar(require("./SkinVariant"), exports);

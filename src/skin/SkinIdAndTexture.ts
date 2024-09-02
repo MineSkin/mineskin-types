@@ -1,6 +1,6 @@
 import { SkinTexture } from "./SkinTexture";
 
-export interface SkinData {
+export interface SkinIdAndTexture {
     uuid: string;
     texture: SkinTexture;
 }
