@@ -14,6 +14,7 @@ export interface SimpleMinecraftAccount {
     recentSuccessRate: number;
     successStreak: number;
     hasErrors: boolean;
+    errorStreak: number;
     lastErrorCode: string;
 
     sendEmails?: boolean;
