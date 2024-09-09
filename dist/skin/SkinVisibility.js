@@ -5,5 +5,6 @@ var SkinVisibility;
 (function (SkinVisibility) {
     SkinVisibility[SkinVisibility["PUBLIC"] = 0] = "PUBLIC";
     SkinVisibility[SkinVisibility["UNLISTED"] = 1] = "UNLISTED";
+    SkinVisibility[SkinVisibility["PRIVATE"] = 2] = "PRIVATE";
 })(SkinVisibility || (exports.SkinVisibility = SkinVisibility = {}));
 //# sourceMappingURL=SkinVisibility.js.map
