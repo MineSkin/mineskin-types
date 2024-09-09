@@ -5,5 +5,6 @@ export * from "./SkinTexture2";
 export * from "./SkinUrls";
 export * from "./SkinHashes";
 export * from "./GeneratorInfo";
+export * from "./SkinVisibility2";
 export * from "./SkinMeta";
 export * from "./ClientInfo";
