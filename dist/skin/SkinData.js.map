@@ -1,1 +1,0 @@
-{"version":3,"file":"SkinData.js","sourceRoot":"/","sources":["skin/SkinData.ts"],"names":[],"mappings":"","sourcesContent":["import { SkinTexture } from \"./SkinTexture\";\n\nexport interface SkinData {\n    uuid: string;\n    texture: SkinTexture;\n}"]}

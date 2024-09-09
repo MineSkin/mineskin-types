@@ -1,8 +1,8 @@
-import { SkinVariant } from "./SkinVariant";
-import { UUID } from "../misc";
-import { SkinVisibility } from "./SkinVisibility";
 import { SkinTexture2 } from "./SkinTexture2";
 import { GeneratorInfo } from "./GeneratorInfo";
+import { SkinVisibility } from "../SkinVisibility";
+import { SkinVariant } from "../SkinVariant";
+import { UUID } from "../../misc";
 export interface SkinInfo2 {
     uuid: UUID;
     name: string;

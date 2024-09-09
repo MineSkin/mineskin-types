@@ -1,13 +1,10 @@
-import { SkinIdAndTexture } from "./SkinIdAndTexture";
-import { SkinVariant } from "./SkinVariant";
-import { DelayInfo } from "../generate";
-import { UUID } from "../misc";
-import { SkinVisibility } from "./SkinVisibility";
-import { SkinTexture } from "./SkinTexture";
 import { SkinTexture2 } from "./SkinTexture2";
 import { SkinHashes } from "./SkinHashes";
 import { SkinUrls } from "./SkinUrls";
 import { GeneratorInfo } from "./GeneratorInfo";
+import { SkinVisibility } from "../SkinVisibility";
+import { SkinVariant } from "../SkinVariant";
+import { UUID } from "../../misc";
 
 export interface SkinInfo2 {
     uuid: UUID;

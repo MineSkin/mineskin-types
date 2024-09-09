@@ -1,0 +1,1 @@
+{"version":3,"file":"ValueAndSignature.js","sourceRoot":"/","sources":["skin/v2/ValueAndSignature.ts"],"names":[],"mappings":"","sourcesContent":["export interface ValueAndSignature {\r\n    value: string;\r\n    signature: string;\r\n}"]}

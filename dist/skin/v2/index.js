@@ -14,12 +14,11 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
     for (var p in m) if (p !== "default" && !Object.prototype.hasOwnProperty.call(exports, p)) __createBinding(exports, m, p);
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-__exportStar(require("./ISkin"), exports);
-__exportStar(require("./SkinIdAndTexture"), exports);
-__exportStar(require("./SkinTexture"), exports);
-__exportStar(require("./SkinTextureUrls"), exports);
-__exportStar(require("./SkinVariant"), exports);
-__exportStar(require("./SkinVisibility"), exports);
-__exportStar(require("./SkinInfo"), exports);
-__exportStar(require("./v2"), exports);
+__exportStar(require("./SkinStatus"), exports);
+__exportStar(require("./SkinInfo2"), exports);
+__exportStar(require("./ValueAndSignature"), exports);
+__exportStar(require("./SkinTexture2"), exports);
+__exportStar(require("./SkinUrls"), exports);
+__exportStar(require("./SkinHashes"), exports);
+__exportStar(require("./GeneratorInfo"), exports);
 //# sourceMappingURL=index.js.map

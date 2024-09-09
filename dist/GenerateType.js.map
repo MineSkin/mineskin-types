@@ -1,1 +1,0 @@
-{"version":3,"file":"GenerateType.js","sourceRoot":"/","sources":["GenerateType.ts"],"names":[],"mappings":";;;AAAA,IAAY,YAIX;AAJD,WAAY,YAAY;IACpB,iCAAiB,CAAA;IACjB,2BAAW,CAAA;IACX,6BAAa,CAAA;AACjB,CAAC,EAJW,YAAY,4BAAZ,YAAY,QAIvB","sourcesContent":["export enum GenerateType {\n    UPLOAD = \"upload\",\n    URL = \"url\",\n    USER = \"user\"\n}"]}
