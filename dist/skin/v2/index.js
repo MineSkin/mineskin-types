@@ -21,4 +21,6 @@ __exportStar(require("./SkinTexture2"), exports);
 __exportStar(require("./SkinUrls"), exports);
 __exportStar(require("./SkinHashes"), exports);
 __exportStar(require("./GeneratorInfo"), exports);
+__exportStar(require("./SkinMeta"), exports);
+__exportStar(require("./ClientInfo"), exports);
 //# sourceMappingURL=index.js.map
