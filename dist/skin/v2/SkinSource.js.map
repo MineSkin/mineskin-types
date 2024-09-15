@@ -1,0 +1,1 @@
+{"version":3,"file":"SkinSource.js","sourceRoot":"/","sources":["skin/v2/SkinSource.ts"],"names":[],"mappings":"","sourcesContent":["export interface SkinSource {\n    type: string;\n    uri: string;\n}"]}

@@ -24,4 +24,5 @@ __exportStar(require("./GeneratorInfo"), exports);
 __exportStar(require("./SkinVisibility2"), exports);
 __exportStar(require("./SkinMeta"), exports);
 __exportStar(require("./ClientInfo"), exports);
+__exportStar(require("./SkinSource"), exports);
 //# sourceMappingURL=index.js.map
