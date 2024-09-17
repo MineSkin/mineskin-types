@@ -4,7 +4,7 @@ export interface ClientInfo {
     /** client user agent **/
     agent: string;
     /** client origin **/
-    origin: string;
+    origin?: string;
     /** client ip **/
     ip: string;
     /** client api key (ID) **/
