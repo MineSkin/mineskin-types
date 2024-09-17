@@ -5,6 +5,7 @@ export class MineSkinError extends Error {
     constructor(public code: string, public msg?: string, public meta?: {
         httpCode?: number;
         source?: ErrorSource;
+        error?: Error;
     }) {
         super(msg ? `[${ code }] ${ msg }` : code);
         Object.setPrototypeOf(this, MineSkinError.prototype);
