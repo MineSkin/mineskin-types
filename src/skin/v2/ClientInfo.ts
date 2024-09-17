@@ -3,6 +3,8 @@ export interface ClientInfo {
     date: Date;
     /** client user agent **/
     agent: string;
+    /** client origin **/
+    origin: string;
     /** client ip **/
     ip: string;
     /** client api key (ID) **/
