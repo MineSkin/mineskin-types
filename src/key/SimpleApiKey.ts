@@ -1,4 +1,5 @@
 import { SimpleApiKeySubscription } from "./SimpleApiKeySubscription";
+import { ApiKeyGrants } from "./ApiKeyGrants";
 
 export interface SimpleApiKey {
     id: string;
@@ -12,6 +13,7 @@ export interface SimpleApiKey {
     allowedIps?: string[];
     allowedAgents?: string[];
     subscription?: SimpleApiKeySubscription;
+    grants?: ApiKeyGrants;
 }
 
 

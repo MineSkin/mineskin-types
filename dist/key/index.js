@@ -16,4 +16,5 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./SimpleApiKey"), exports);
 __exportStar(require("./SimpleApiKeySubscription"), exports);
+__exportStar(require("./ApiKeyGrants"), exports);
 //# sourceMappingURL=index.js.map
