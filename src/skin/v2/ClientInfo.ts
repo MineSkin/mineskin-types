@@ -1,6 +1,6 @@
 export interface ClientInfo {
-    /** client request date **/
-    date: Date;
+    /** client request date millis **/
+    time: number;
     /** client user agent **/
     agent: string;
     /** client origin **/
