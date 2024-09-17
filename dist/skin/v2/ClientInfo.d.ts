@@ -9,4 +9,5 @@ export interface ClientInfo {
     key?: string;
     /** client user **/
     user?: string;
+    billable?: boolean;
 }
