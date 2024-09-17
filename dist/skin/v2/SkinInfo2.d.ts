@@ -5,7 +5,7 @@ import { SkinVariant } from "../SkinVariant";
 import { UUID } from "../../misc";
 export interface SkinInfo2 {
     uuid: UUID;
-    name: string;
+    name?: string;
     variant: SkinVariant;
     visibility: SkinVisibility;
     texture: SkinTexture2;
