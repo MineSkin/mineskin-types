@@ -5,7 +5,7 @@ export interface ClientInfo {
     agent: string;
     /** client ip **/
     ip: string;
-    /** client api key **/
+    /** client api key (ID) **/
     key?: string;
     /** client user **/
     user?: string;
