@@ -4,4 +4,5 @@ export interface GeneratorInfo {
     duration: number;
     account: string;
     server: string;
+    worker: string;
 }
