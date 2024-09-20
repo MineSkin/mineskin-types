@@ -5,5 +5,6 @@ export interface RateLimitInfo {
     },
     delay: {
         millis: number;
+        seconds: number;
     }
 }
