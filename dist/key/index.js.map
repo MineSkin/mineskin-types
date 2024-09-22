@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sourceRoot":"/","sources":["key/index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,iDAA8B;AAC9B,6DAA0C","sourcesContent":["export * from \"./SimpleApiKey\"\nexport * from \"./SimpleApiKeySubscription\""]}
+{"version":3,"file":"index.js","sourceRoot":"/","sources":["key/index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,iDAA8B;AAC9B,6DAA0C","sourcesContent":["export * from \"./SimpleApiKey\"\r\nexport * from \"./SimpleApiKeySubscription\""]}
