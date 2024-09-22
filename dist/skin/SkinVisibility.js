@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.SkinVisibility = void 0;
+/** @deprecated **/
 var SkinVisibility;
 (function (SkinVisibility) {
     SkinVisibility[SkinVisibility["PUBLIC"] = 0] = "PUBLIC";
