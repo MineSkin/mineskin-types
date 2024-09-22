@@ -16,9 +16,11 @@ export interface SkinInfo {
     duration: number;
     /**@deprecated**/
     accountId: number;
-    account: number;
+    account: number | string;
     server: string;
+    /**@deprecated**/
     private: boolean;
+    visibility?: string;
     views: number;
     duplicate?: boolean;
     /**@deprecated**/
