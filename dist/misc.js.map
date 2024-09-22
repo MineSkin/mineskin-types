@@ -1,1 +1,1 @@
-{"version":3,"file":"misc.js","sourceRoot":"/","sources":["misc.ts"],"names":[],"mappings":"","sourcesContent":["export type UUID = string;\nexport type Maybe<T> = T | undefined;\n\nexport type Breadcrumb = string;"]}
+{"version":3,"file":"misc.js","sourceRoot":"/","sources":["misc.ts"],"names":[],"mappings":"","sourcesContent":["export type UUID = string;\r\nexport type Maybe<T> = T | undefined;\r\n\r\nexport type Breadcrumb = string;"]}
