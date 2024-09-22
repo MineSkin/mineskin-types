@@ -11,5 +11,6 @@ export interface ClientInfo {
     key?: string;
     /** client user **/
     user?: string;
+    breadcrumb: string;
     billable?: boolean;
 }
