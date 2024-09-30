@@ -24,4 +24,5 @@ __exportStar(require("./key"), exports);
 __exportStar(require("./user"), exports);
 __exportStar(require("./minecraft"), exports);
 __exportStar(require("./subscription"), exports);
+__exportStar(require("./billing"), exports);
 //# sourceMappingURL=index.js.map
