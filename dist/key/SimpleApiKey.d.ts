@@ -10,5 +10,6 @@ export interface SimpleApiKey {
     allowedOrigins?: string[];
     allowedIps?: string[];
     allowedAgents?: string[];
+    useCredits?: boolean;
     subscription?: SimpleApiKeySubscription;
 }
