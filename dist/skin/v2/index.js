@@ -26,4 +26,5 @@ __exportStar(require("./SkinMeta"), exports);
 __exportStar(require("./ClientInfo"), exports);
 __exportStar(require("./SkinSource"), exports);
 __exportStar(require("./SkinInteractions"), exports);
+__exportStar(require("./BillableClient"), exports);
 //# sourceMappingURL=index.js.map

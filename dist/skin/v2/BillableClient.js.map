@@ -1,0 +1,1 @@
+{"version":3,"file":"BillableClient.js","sourceRoot":"/","sources":["skin/v2/BillableClient.ts"],"names":[],"mappings":"","sourcesContent":["import { ClientInfo } from \"./ClientInfo\";\nimport { CreditType } from \"../../billing\";\n\nexport interface BillableClient extends ClientInfo {\n    billable?: boolean;\n    metered?: boolean;\n    credits?: CreditType | boolean;\n}"]}
