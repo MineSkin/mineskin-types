@@ -6,3 +6,7 @@ export interface BillableClient extends ClientInfo {
     metered?: boolean;
     credits?: CreditType | boolean;
 }
+
+export function isBillableClient(client: ClientInfo): client is BillableClient {
+    return (client as BillableClient).billable !== undefined;
+}

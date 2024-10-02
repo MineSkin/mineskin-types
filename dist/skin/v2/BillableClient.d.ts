@@ -5,3 +5,4 @@ export interface BillableClient extends ClientInfo {
     metered?: boolean;
     credits?: CreditType | boolean;
 }
+export declare function isBillableClient(client: ClientInfo): client is BillableClient;
