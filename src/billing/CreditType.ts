@@ -2,5 +2,8 @@ export enum CreditType {
     FREE = "free",
     PAID = "paid",
     REWARD = "reward",
-    INTERNAL = "internal"
+    INTERNAL = "internal",
+
+    /**special type used for selection**/
+    AUTO = "auto",
 }

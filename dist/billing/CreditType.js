@@ -7,5 +7,7 @@ var CreditType;
     CreditType["PAID"] = "paid";
     CreditType["REWARD"] = "reward";
     CreditType["INTERNAL"] = "internal";
+    /**special type used for selection**/
+    CreditType["AUTO"] = "auto";
 })(CreditType || (exports.CreditType = CreditType = {}));
 //# sourceMappingURL=CreditType.js.map
