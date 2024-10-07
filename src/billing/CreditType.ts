@@ -1,6 +1,5 @@
 export enum CreditType {
-    FREE_DAILY = "free-daily",
-    FREE_MONTHLY = "free-monthly",
+    FREE = "free",
     PAID = "paid",
     REWARD = "reward",
     INTERNAL = "internal",
