@@ -17,4 +17,5 @@ Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./ProductGroup"), exports);
 __exportStar(require("./CreditType"), exports);
 __exportStar(require("./SimpleOrder"), exports);
+__exportStar(require("./CreditPeriod"), exports);
 //# sourceMappingURL=index.js.map
