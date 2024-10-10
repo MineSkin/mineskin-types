@@ -12,5 +12,6 @@ export interface ClientInfo {
     /** client user **/
     user?: string;
     breadcrumb: string;
+    grants?: Record<string, string | number | boolean>;
     billable?: boolean;
 }
