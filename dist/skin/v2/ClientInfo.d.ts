@@ -14,4 +14,8 @@ export interface ClientInfo {
     breadcrumb: string;
     grants?: Record<string, string | number | boolean>;
     billable?: boolean;
+    /** metered billing **/
+    metered?: boolean;
+    /** whether to use up paid credits **/
+    credits?: boolean;
 }
