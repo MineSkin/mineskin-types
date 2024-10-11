@@ -14,5 +14,7 @@ export interface SimpleSubscription {
     subscription_id: string | number;
     subscription_quantity: number;
     subscription_price_id: string | number;
+    subscription_item_id: string | number;
     is_usage_based: boolean;
+    test_mode: boolean;
 }
