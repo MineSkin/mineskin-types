@@ -7,4 +7,8 @@ export interface RateLimitInfo {
         millis: number;
         seconds: number;
     };
+    limit: {
+        limit: number;
+        remaining: number;
+    };
 }
