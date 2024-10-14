@@ -1,1 +1,1 @@
-export type JobStatus = "waiting" | "processing" | "completed" | "failed";
+export type JobStatus = "waiting" | "processing" | "completed" | "failed" | "unknown";
