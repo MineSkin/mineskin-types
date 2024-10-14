@@ -17,4 +17,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./DelayInfo"), exports);
 __exportStar(require("./GenerateType"), exports);
 __exportStar(require("./RateLimitInfo"), exports);
+__exportStar(require("./DuplicateSource"), exports);
+__exportStar(require("./GenerateRequest"), exports);
+__exportStar(require("./GenerateResult"), exports);
 //# sourceMappingURL=index.js.map

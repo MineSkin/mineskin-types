@@ -1,0 +1,1 @@
+{"version":3,"file":"LimitUsageInfo.js","sourceRoot":"/","sources":["usage/LimitUsageInfo.ts"],"names":[],"mappings":"","sourcesContent":["export interface LimitUsageInfo {\n    limit: number;\n    remaining: number;\n}\n"]}
