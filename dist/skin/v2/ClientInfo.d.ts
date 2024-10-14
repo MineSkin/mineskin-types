@@ -18,4 +18,6 @@ export interface ClientInfo {
     metered?: boolean;
     /** whether to use up paid credits **/
     credits?: boolean;
+    /** max concurrency **/
+    concurrency?: number;
 }
