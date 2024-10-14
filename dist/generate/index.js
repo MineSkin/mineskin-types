@@ -21,4 +21,6 @@ __exportStar(require("./DuplicateSource"), exports);
 __exportStar(require("./GenerateRequest"), exports);
 __exportStar(require("./GenerateResult"), exports);
 __exportStar(require("./GenerateOptions"), exports);
+__exportStar(require("./JobInfo"), exports);
+__exportStar(require("./JobStatus"), exports);
 //# sourceMappingURL=index.js.map
