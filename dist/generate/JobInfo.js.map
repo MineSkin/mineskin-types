@@ -1,1 +1,1 @@
-{"version":3,"file":"JobInfo.js","sourceRoot":"/","sources":["generate/JobInfo.ts"],"names":[],"mappings":"","sourcesContent":["import { JobStatus } from \"./JobStatus\";\n\nexport interface JobInfo {\n    id: string;\n    status: JobStatus;\n}"]}
+{"version":3,"file":"JobInfo.js","sourceRoot":"/","sources":["generate/JobInfo.ts"],"names":[],"mappings":"","sourcesContent":["import { JobStatus } from \"./JobStatus\";\n\nexport interface JobInfo {\n    id: string;\n    status: JobStatus;\n    timestamp: number;\n    result?: string;\n}"]}
