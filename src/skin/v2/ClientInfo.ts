@@ -21,4 +21,6 @@ export interface ClientInfo {
     credits?: boolean;
     /** max concurrency **/
     concurrency?: number;
+    /** queue priority **/
+    priority?: number;
 }
