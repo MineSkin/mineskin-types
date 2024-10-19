@@ -17,8 +17,10 @@ export interface ClientInfo {
     billable?: boolean;
     /** metered billing **/
     metered?: boolean;
+    /** credits ID **/
+    credits?: string;
     /** whether to use up paid credits **/
-    credits?: boolean;
+    usePaidCredits?: boolean;
     /** max concurrency **/
     concurrency?: number;
     /** queue priority **/
