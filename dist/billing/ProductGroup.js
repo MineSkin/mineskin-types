@@ -6,5 +6,6 @@ var ProductGroup;
     ProductGroup["REQUEST_SPEED"] = "request_speed";
     ProductGroup["FEATURE_PACK"] = "feat_pack";
     ProductGroup["CREDITS"] = "credits";
+    ProductGroup["ONE_TIME"] = "one_time";
 })(ProductGroup || (exports.ProductGroup = ProductGroup = {}));
 //# sourceMappingURL=ProductGroup.js.map
