@@ -15,7 +15,6 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./CreditsUsageInfo"), exports);
-__exportStar(require("./LimitUsageInfo"), exports);
 __exportStar(require("./MeteredUsageInfo"), exports);
 __exportStar(require("./RateUsageInfo"), exports);
 __exportStar(require("./UsageInfo"), exports);
