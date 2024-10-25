@@ -27,4 +27,6 @@ __exportStar(require("./subscription"), exports);
 __exportStar(require("./error"), exports);
 __exportStar(require("./billing"), exports);
 __exportStar(require("./usage"), exports);
+__exportStar(require("./ratelimit"), exports);
+__exportStar(require("./job"), exports);
 //# sourceMappingURL=index.js.map

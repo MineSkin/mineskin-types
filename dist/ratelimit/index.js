@@ -14,9 +14,8 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
     for (var p in m) if (p !== "default" && !Object.prototype.hasOwnProperty.call(exports, p)) __createBinding(exports, m, p);
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-__exportStar(require("./GenerateType"), exports);
-__exportStar(require("./DuplicateSource"), exports);
-__exportStar(require("./GenerateRequest"), exports);
-__exportStar(require("./GenerateResult"), exports);
-__exportStar(require("./GenerateOptions"), exports);
+__exportStar(require("./RateLimitInfo"), exports);
+__exportStar(require("./NextRequest"), exports);
+__exportStar(require("./DelayInfo"), exports);
+__exportStar(require("./LimitInfo"), exports);
 //# sourceMappingURL=index.js.map

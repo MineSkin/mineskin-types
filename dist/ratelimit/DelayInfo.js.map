@@ -1,0 +1,1 @@
+{"version":3,"file":"DelayInfo.js","sourceRoot":"/","sources":["ratelimit/DelayInfo.ts"],"names":[],"mappings":"","sourcesContent":["export interface DelayInfo {\n    /**\n     * request delay in seconds\n     */\n    seconds: number;\n    /**\n     * request delay in milliseconds\n     */\n    millis: number;\n}\n"]}

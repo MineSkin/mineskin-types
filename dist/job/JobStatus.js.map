@@ -1,0 +1,1 @@
+{"version":3,"file":"JobStatus.js","sourceRoot":"/","sources":["job/JobStatus.ts"],"names":[],"mappings":"","sourcesContent":["export type JobStatus = \"waiting\" | \"processing\" | \"completed\" | \"failed\" | \"unknown\";"]}
