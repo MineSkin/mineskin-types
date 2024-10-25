@@ -2,6 +2,7 @@ import { SkinIdAndTexture } from "./SkinIdAndTexture";
 import { SkinVariant } from "./SkinVariant";
 import { DelayInfo } from "../ratelimit";
 
+/**@deprecated**/
 export interface SkinInfo {
     id: number;
     idStr: string;
