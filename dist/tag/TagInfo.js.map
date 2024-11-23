@@ -1,1 +1,1 @@
-{"version":3,"file":"TagInfo.js","sourceRoot":"/","sources":["tag/TagInfo.ts"],"names":[],"mappings":"","sourcesContent":["export interface TagInfo {\n    tag: string;\n}"]}
+{"version":3,"file":"TagInfo.js","sourceRoot":"/","sources":["tag/TagInfo.ts"],"names":[],"mappings":"","sourcesContent":["export interface TagInfo {\r\n    tag: string;\r\n}"]}
