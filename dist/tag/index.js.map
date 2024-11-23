@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sourceRoot":"/","sources":["tag/index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,gDAA8B","sourcesContent":["export * from \"./TagVoteType\";"]}
+{"version":3,"file":"index.js","sourceRoot":"/","sources":["tag/index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,gDAA8B;AAC9B,4CAA0B","sourcesContent":["export * from \"./TagVoteType\";\nexport * from \"./TagInfo\";"]}
