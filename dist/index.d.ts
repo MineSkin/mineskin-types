@@ -14,3 +14,4 @@ export * from "./usage";
 export * from "./ratelimit";
 export * from "./job";
 export * from "./tag";
+export * from "./report";
