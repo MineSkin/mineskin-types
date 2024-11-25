@@ -1,1 +1,1 @@
-{"version":3,"file":"SkinReport.js","sourceRoot":"/","sources":["report/SkinReport.ts"],"names":[],"mappings":"","sourcesContent":["import { UUID } from \"../misc\";\n\nexport interface SkinReport {\n    user: UUID;\n    time: Date;\n}"]}
+{"version":3,"file":"SkinReport.js","sourceRoot":"/","sources":["report/SkinReport.ts"],"names":[],"mappings":"","sourcesContent":["import { UUID } from \"../misc\";\r\n\r\nexport interface SkinReport {\r\n    user: UUID;\r\n    time: Date;\r\n    reason: string;\r\n}"]}
