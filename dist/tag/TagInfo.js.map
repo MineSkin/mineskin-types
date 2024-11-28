@@ -1,1 +1,1 @@
-{"version":3,"file":"TagInfo.js","sourceRoot":"/","sources":["tag/TagInfo.ts"],"names":[],"mappings":"","sourcesContent":["export interface TagInfo {\r\n    tag: string;\r\n}"]}
+{"version":3,"file":"TagInfo.js","sourceRoot":"/","sources":["tag/TagInfo.ts"],"names":[],"mappings":"","sourcesContent":["import { TagVoteType } from \"./TagVoteType\";\r\n\r\nexport interface TagInfo {\r\n    tag: string;\r\n    vote?: TagVoteType;\r\n    suggested?: boolean;\r\n}"]}
