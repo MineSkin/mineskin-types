@@ -7,6 +7,7 @@ import { TagInfo } from "../../tag/TagInfo";
 
 export interface SkinInfo2 {
     uuid: UUID;
+    shortId?: string;
     name?: string;
     variant: SkinVariant;
     visibility: SkinVisibility2;
