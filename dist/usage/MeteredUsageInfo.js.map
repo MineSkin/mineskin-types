@@ -1,1 +1,0 @@
-{"version":3,"file":"MeteredUsageInfo.js","sourceRoot":"/","sources":["usage/MeteredUsageInfo.ts"],"names":[],"mappings":"","sourcesContent":["export interface MeteredUsageInfo {\n    used: number;\n}\n"]}

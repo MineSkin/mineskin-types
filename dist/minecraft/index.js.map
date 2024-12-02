@@ -1,1 +1,0 @@
-{"version":3,"file":"index.js","sourceRoot":"/","sources":["minecraft/index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,2DAAwC;AACxC,uDAAoC;AACpC,sDAAmC;AACnC,sDAAmC","sourcesContent":["export * from \"./SimpleMinecraftAccount\"\nexport * from \"./BasicMojangProfile\"\nexport * from \"./MojangProfileSkin\"\nexport * from \"./MojangProfileCape\""]}

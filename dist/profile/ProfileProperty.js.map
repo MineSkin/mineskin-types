@@ -1,1 +1,0 @@
-{"version":3,"file":"ProfileProperty.js","sourceRoot":"/","sources":["profile/ProfileProperty.ts"],"names":[],"mappings":"","sourcesContent":["export interface ProfileProperty {\n    name: string;\n    value: string;\n    signature: string;\n}"]}

@@ -1,1 +1,0 @@
-{"version":3,"file":"AccountType.js","sourceRoot":"/","sources":["account/AccountType.ts"],"names":[],"mappings":";;;AAAA,IAAY,WAGX;AAHD,WAAY,WAAW;IACnB,gCAAiB,CAAA;IACjB,sCAAuB,CAAA;AAC3B,CAAC,EAHW,WAAW,2BAAX,WAAW,QAGtB","sourcesContent":["export enum AccountType {\n    MOJANG = \"mojang\",\n    MICROSOFT = \"microsoft\"\n}\n"]}

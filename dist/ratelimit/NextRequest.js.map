@@ -1,1 +1,0 @@
-{"version":3,"file":"NextRequest.js","sourceRoot":"/","sources":["ratelimit/NextRequest.ts"],"names":[],"mappings":"","sourcesContent":["export interface NextRequest {\n    absolute: number;\n    relative: number;\n}"]}

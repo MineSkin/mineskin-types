@@ -1,1 +1,0 @@
-{"version":3,"file":"RateUsageInfo.js","sourceRoot":"/","sources":["usage/RateUsageInfo.ts"],"names":[],"mappings":"","sourcesContent":["export interface RateUsageInfo {\n    delay: number;\n    next: number;\n}\n"]}

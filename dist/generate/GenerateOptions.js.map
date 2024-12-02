@@ -1,1 +1,0 @@
-{"version":3,"file":"GenerateOptions.js","sourceRoot":"/","sources":["generate/GenerateOptions.ts"],"names":[],"mappings":"","sourcesContent":["import { SkinVariant, SkinVisibility2 } from \"../skin\";\n\nexport interface GenerateOptions{\n    name?: string;\n    variant: SkinVariant;\n    visibility: SkinVisibility2;\n}\n"]}

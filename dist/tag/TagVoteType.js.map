@@ -1,1 +1,0 @@
-{"version":3,"file":"TagVoteType.js","sourceRoot":"/","sources":["tag/TagVoteType.ts"],"names":[],"mappings":";;;AAAA,IAAY,WAGX;AAHD,WAAY,WAAW;IACnB,wBAAS,CAAA;IACT,4BAAa,CAAA;AACjB,CAAC,EAHW,WAAW,2BAAX,WAAW,QAGtB","sourcesContent":["export enum TagVoteType {\r\n    UP = \"up\",\r\n    DOWN = \"down\"\r\n}"]}

@@ -1,1 +1,0 @@
-{"version":3,"file":"ApiKeyGrants.js","sourceRoot":"/","sources":["key/ApiKeyGrants.ts"],"names":[],"mappings":"","sourcesContent":["export interface ApiKeyGrants {\r\n    delay?: number;\r\n}"]}

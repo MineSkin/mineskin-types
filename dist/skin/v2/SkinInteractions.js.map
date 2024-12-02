@@ -1,1 +1,0 @@
-{"version":3,"file":"SkinInteractions.js","sourceRoot":"/","sources":["skin/v2/SkinInteractions.ts"],"names":[],"mappings":"","sourcesContent":["export interface SkinInteractions {\r\n    views: number;\r\n    likes: number;\r\n}"]}

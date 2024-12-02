@@ -1,1 +1,0 @@
-{"version":3,"file":"ISkin.js","sourceRoot":"/","sources":["skin/ISkin.ts"],"names":[],"mappings":"","sourcesContent":["import { UUID } from \"../misc\";\n\nexport interface ISkin {\n    uuid: UUID;\n    name?: string;\n}"]}

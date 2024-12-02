@@ -1,1 +1,0 @@
-{"version":3,"file":"SkinTextureUrls.js","sourceRoot":"/","sources":["skin/SkinTextureUrls.ts"],"names":[],"mappings":"","sourcesContent":["export interface SkinTextureUrls {\n    /**\n     * url of the skin texture\n     */\n    skin: string;\n    /**\n     * url of the cape texture\n     */\n    cape?: string;\n}"]}

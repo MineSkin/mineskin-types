@@ -1,1 +1,0 @@
-{"version":3,"file":"index.js","sourceRoot":"/","sources":["profile/index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,oDAAkC","sourcesContent":["export * from \"./ProfileProperty\";"]}

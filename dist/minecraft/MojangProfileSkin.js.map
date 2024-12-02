@@ -1,1 +1,0 @@
-{"version":3,"file":"MojangProfileSkin.js","sourceRoot":"/","sources":["minecraft/MojangProfileSkin.ts"],"names":[],"mappings":"","sourcesContent":["export interface MojangProfileSkin {\n    id: string;\n    state: \"ACTIVE\" | string;\n    url: string;\n    variant: string;\n}\n"]}

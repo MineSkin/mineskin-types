@@ -1,1 +1,0 @@
-{"version":3,"file":"SkinIdAndTexture.js","sourceRoot":"/","sources":["skin/SkinIdAndTexture.ts"],"names":[],"mappings":"","sourcesContent":["import { SkinTexture } from \"./SkinTexture\";\r\n\r\nexport interface SkinIdAndTexture {\r\n    uuid: string;\r\n    texture: SkinTexture;\r\n}"]}
