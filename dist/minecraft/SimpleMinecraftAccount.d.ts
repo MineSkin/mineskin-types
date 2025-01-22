@@ -17,6 +17,8 @@ export interface SimpleMinecraftAccount {
     lastErrorCode: string;
     errorState: string;
     added: number;
+    originalSkin?: string;
+    originalCape?: string;
     sendEmails?: boolean;
     submitted?: true;
 }
