@@ -21,7 +21,9 @@ export interface SimpleMinecraftAccount {
     originalSkin?: string;
     originalCape?: string;
 
+    /**@deprecated**/
     sendEmails?: boolean;
+    settings?: Record<string, any>;
 
     submitted?: true;
 }
