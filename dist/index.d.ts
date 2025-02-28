@@ -16,3 +16,4 @@ export * from "./job";
 export * from "./tag";
 export * from "./report";
 export * from "./reward";
+export * from "./notification";
