@@ -10,5 +10,6 @@ export interface SimpleNotification {
     links?: NotificationLink[];
     user: string;
     delivery: string[];
+    createdAt: Date;
     expiresAt?: Date;
 }
