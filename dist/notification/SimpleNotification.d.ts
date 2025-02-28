@@ -3,6 +3,7 @@ export interface NotificationLink {
     url: string;
 }
 export interface SimpleNotification {
+    id: string;
     title: string;
     message: string;
     level: string;
