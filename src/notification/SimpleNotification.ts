@@ -7,7 +7,7 @@ export interface SimpleNotification {
     title: string;
     message: string;
     level: string;
-    links: NotificationLink[];
+    links?: NotificationLink[];
     user: string;
     delivery: string[];
     expiresAt?: Date;
