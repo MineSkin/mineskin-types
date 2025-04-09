@@ -3,6 +3,7 @@ import { ApiKeyGrants } from "./ApiKeyGrants";
 
 export interface SimpleApiKey {
     id: string;
+    shortId: string;
     name: string;
     user?: string;
     createdAt: Date;
