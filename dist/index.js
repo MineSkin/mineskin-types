@@ -31,4 +31,6 @@ __exportStar(require("./ratelimit"), exports);
 __exportStar(require("./job"), exports);
 __exportStar(require("./tag"), exports);
 __exportStar(require("./report"), exports);
+__exportStar(require("./reward"), exports);
+__exportStar(require("./notification"), exports);
 //# sourceMappingURL=index.js.map
