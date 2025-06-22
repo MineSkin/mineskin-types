@@ -9,5 +9,7 @@ export enum SubscriptionStatus {
 }
 
 export function validSubscriptionStatus(status: SubscriptionStatus): boolean {
-    return status !== SubscriptionStatus.INACTIVE && status !== SubscriptionStatus.EXPIRED;
+    return status !== SubscriptionStatus.INACTIVE &&
+        status !== SubscriptionStatus.EXPIRED &&
+        status !== SubscriptionStatus.UNPAID;
 }

@@ -13,6 +13,8 @@ var SubscriptionStatus;
     SubscriptionStatus["UNPAID"] = "unpaid";
 })(SubscriptionStatus || (exports.SubscriptionStatus = SubscriptionStatus = {}));
 function validSubscriptionStatus(status) {
-    return status !== SubscriptionStatus.INACTIVE && status !== SubscriptionStatus.EXPIRED;
+    return status !== SubscriptionStatus.INACTIVE &&
+        status !== SubscriptionStatus.EXPIRED &&
+        status !== SubscriptionStatus.UNPAID;
 }
 //# sourceMappingURL=SubscriptionStatus.js.map
